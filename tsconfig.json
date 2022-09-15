@@ -1,9 +1,0 @@
-{
-    "compilerOptions": {
-        "jsx": "react",
-        "target": "es2016",
-        "types": [
-            "node"
-        ]
-    }
-}
